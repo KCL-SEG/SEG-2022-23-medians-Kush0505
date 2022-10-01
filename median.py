@@ -3,7 +3,7 @@
 
 def median(numberList):
     if(len(numbers) % 2 == 0):
-        print(len(numbers))
+        #print(len(numbers))
         index1 = int(len(numbers)/2)
         index2 = int(index1-1)
         median = numbers[index1] + numbers[index2]
